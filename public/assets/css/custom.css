@@ -1,0 +1,80 @@
+.indhome p {
+    font-size: 20px;
+    color: #95513e;
+
+
+
+}
+
+.moment {
+    margin: 2rem 0;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.moment .card-body {
+    padding: 15px 20px;
+}
+
+.moment .g-0 {
+    background: #e6d2c047;
+    margin-right: 3rem;
+    min-height: 260px;
+}
+
+.brown-wrapper {
+    background-color: #3a4160;
+}
+
+.categories p {
+    height: 200px;
+}
+
+.nous-soutenons {
+    color: white;
+    border: 1px solid #95513f4a;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.nous-soutenons .col-sm-8 {
+    padding: 4rem 0;
+    ;
+}
+
+.all-activities .btn {
+    border: 2px solid #95513e;
+    padding: 2rem;
+    margin: 6rem;
+}
+
+.culture-img {
+    min-height: 300px;
+    background-size: cover;
+}
+
+.imgdetail {
+    height: 257px;
+    object-fit: cover;
+    object-position: 50% 50%;
+}
+
+.btn:hover {
+    color: inherit;
+}
+
+p {
+    margin: 0px 0 0px;
+}
+
+.sib-form p {
+    text-align: center;
+}
+
+.agenda {
+    padding: 0px;
+}
+
+.checkbox-item li{
+    border:inherit
+}
